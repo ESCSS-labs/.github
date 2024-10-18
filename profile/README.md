@@ -1,21 +1,25 @@
 # ESCSS - Escapes The Developer's Nightmare
 ![logo](https://github.com/ESCSS-labs/ESCSS/blob/main/assets/logo.png)
 
+## Language
+
+- [中文](./README-zh.md)
+
 ## Origin
-Inspired by "The Mythical Man-Month," I ponder the question: Does the 'Silver Bullet' that people have sought for the past 50 years truly exist, or is it merely a fantasy?
+Inspired by "The Mythical Man-Month," I often ponder the question: Does the 'Silver Bullet' sought for the past 50 years truly exist, or is it merely a fantasy?
 
-Reflecting on my past, I’ve come to realize that I often have unconventional and innovative ideas. As these concepts gain increasing validation, I believe the Silver Bullet is within reach.
+Reflecting on my past, I’ve found that I often have some unique ideas As these concepts gradually gain validation, I believe the Silver Bullet seems feasible, leading me to invest time in research.
 
-After a period of deep reflection and development, I proudly present ESCSS—an effort to enhance the software ecosystem while also earning income from my work.
+After a period of deep reflection and experimentation, I proudly present my work, ESCSS—focused on enhancing the developer experience and efficiency, aiming to improve the software industry while also earning income from my work.
 
-## Key Features:
-  - **100% Input Coverage**: Comprehensive input testing minimizes bugs and builds client trust.
-  - **Versatility**: Flexible Javascript and CSS library compatible with web technologies.
-  - **Bug Identification**: Are you struggling to find a bug without clues? What once took hours or weeks can now be resolved in seconds.
-  - **Boost CSS Efficiency**: Elevate CSS development by improving productivity and enhancing developer satisfaction.
-  - **Security**: The open core model ensures robust transparency and zero dependency on ESTest, providing peace of mind for users.
-  - **Non-Invasive**: Effortlessly integrates with legacy codebases.
-  - **Developer Experience**: Designed with an intuitive approach.
+## Key Features
+- **Versatility**: A flexible JavaScript and CSS toolkit that is compatible with mainstream web technologies.
+- **Security**: The open-core model ensures robust transparency, and there are no dependencies on ESTest, minimizing security risks.
+- **Non-Invasive**: Legacy code, seamless use.
+- **Developer Experience**: Developers work smoothly and product quality improves.
+- **100% Input Coverage**: Comprehensive input test coverage minimizes errors and enhances customer trust.
+- **Error Capture**: Frequent channeling, spending hours looking for bugs? Locate the source of errors in seconds.
+- **CSS Efficiency Boost**: Elevate development efficiency and developer satisfaction elegantly through CSS tools.
 
 ## Pricing
 |  | PRICING | LICENSE TYPE | FEATURES | 
@@ -32,6 +36,6 @@ After a period of deep reflection and development, I proudly present ESCSS—an 
   - Learn more about the licenses [here](https://github.com/ESCSS-labs/ESCSS-SCSS?tab=License-1-ov-file).
 
 ## What's different about both licenses?
-The key distinction lies in whether **your project remains open-source or is kept private**. Both licenses offer **the same features—no additional commercial components**, now and in the future.
+The key distinction lies in whether **your project remains open-source or is kept private**. Both licenses offer **the same features—no additional commercial components, now and in the future**.
 
 I selected the "Open Core" business model because I think this approach enhances the software ecosystem while allowing me to earn income from my work.
